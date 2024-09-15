@@ -1,5 +1,5 @@
 NOTE: Currently Work in Progress
-# FoundryLottery
+# FoundryERC20Token
 A project for me to learn how to develop my own Token smart contract that follows the ERC20 token standard; with the use of OpenZeppelin ERC20 smart contract.
 I am implementhing this project myself, with my own code, guided by the [Cyfrin Updraft's smart contract development course](https://github.com/Cyfrin/foundry-full-course-cu).
 
